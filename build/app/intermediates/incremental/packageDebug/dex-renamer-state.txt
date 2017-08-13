@@ -1,4 +1,4 @@
-#Thu Aug 10 20:21:52 EDT 2017
-base.0=/home/sam/dev/flutter_apps/walk_safely/build/app/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sat Aug 12 21:37:13 EDT 2017
+base.0=/home/sam/dev/apps_by_flutter/walk_safely/build/app/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/sam/dev/flutter_apps/walk_safely/build/app/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/sam/dev/apps_by_flutter/walk_safely/build/app/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

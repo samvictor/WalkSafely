@@ -8,7 +8,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="aafc1d86dbe9f0d512353bf00e9955c0c9ac859a">
-        <dex dex="/home/sam/dev/flutter_apps/walk_safely/build/app/intermediates/pre-dexed/debug/flutter_aefe5c15cfe932e3fc17b1f2f0ce9eafcf6eb3b3.jar" />
+        <dex dex="/home/sam/dev/apps_by_flutter/walk_safely/build/app/intermediates/pre-dexed/debug/flutter_aefe5c15cfe932e3fc17b1f2f0ce9eafcf6eb3b3.jar" />
     </item>
 
 </items>

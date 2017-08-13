@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/sam/dev/apps_by_flutter/walk_safely/build/app/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/sam/dev/apps_by_flutter/walk_safely/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/sam/dev/flutter_apps/walk_safely/build/app/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/sam/dev/flutter_apps/walk_safely/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
